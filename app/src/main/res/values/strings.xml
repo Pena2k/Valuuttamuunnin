@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="main_title">Currency</string>
+    <string name="main_subtitle">Real-time Exchange Rates</string>
+    <string name="amount">Amount</string>
+    <string name="from_currency">From</string>
+    <string name="to_currency">To</string>
+    <string name="result">Result:</string>
+    <string name="info_button">Info</string>
+    <string name="info_title">Tietoa valuuttamuuntimesta</string>
+    <string name="info_description">Tämä sovellus hakee sinulle ajankohtaiset vaihtokurssit eri valuutoille.</string>
+    <string name="back_button">Back</string>
+    <string name="error_loading_rates">Unable to load exchange rates</string>
+    <string name="swap_currencies">Swap currencies</string>
+    <string name="retry_button">Retry</string>
+    <string name="app_title">Valuuttamuunnin</string>
+</resources>
